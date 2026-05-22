@@ -1,6 +1,6 @@
 # HARUNA ADEGOKE ADEMOYE
 
-** AI Backend Engineer | Machine Learning Engineer | Backend & Intelligent Systems Developer **
+**AI Backend Engineer | Machine Learning Engineer | Backend & Intelligent Systems Developer**
 
 📍 Lagos, Nigeria
 📞 +234 7036558606
