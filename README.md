@@ -1,254 +1,298 @@
-# HARUNA ADEGOKE ADEMOYE
+👋 Hi, I'm Haruna Adegoke Ademoye
 
-**AI Backend Engineer | Machine Learning Engineer | Backend & Intelligent Systems Developer**
+Software Engineer | AI Backend Developer | MERN Stack Developer
 
 📍 Lagos, Nigeria
 📞 +234 7036558606
-✉️ [ademoyeharuna@gmail.com](mailto:ademoyeharuna@gmail.com)
-🌐 Portfolio: [Professional Portfolio](https://professiona-portfolio.netlify.app/?utm_source=chatgpt.com)
-💻 GitHub: [HARDECOMM GitHub](https://github.com/HARDECOMM?utm_source=chatgpt.com)
-🔗 LinkedIn: [Haruna Ademoye LinkedIn](https://www.linkedin.com/in/haruna-ademoye-859486110?utm_source=chatgpt.com)
+✉️ ademoyeharuna@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/haruna-ademoye-859486110
+🌐 Portfolio: https://professiona-portfolio.netlify.app
+💻 GitHub: https://github.com/HARDECOMM
 
 ---
 
-# PROFESSIONAL SUMMARY
+🚀 Professional Summary
 
-Innovative and solution-driven AI Backend Engineer with practical experience building AI-powered applications, backend systems, intelligent automation solutions, and computer vision projects using Python, Node.js, machine learning frameworks, and modern web technologies.
+Software Engineer and AI Backend Developer with hands-on experience building scalable backend systems, RESTful APIs, AI-powered applications, and full-stack web solutions using Node.js, Express.js, Python, FastAPI, React.js, and MongoDB.
 
-Experienced in developing scalable backend architectures, RESTful APIs, AI-integrated systems, workflow automation pipelines, and intelligent data-processing applications across healthcare, agriculture, computer vision, and public health domains.
+Experienced in backend architecture, database management, authentication systems, machine learning integration, and cloud deployment. Skilled at translating business requirements into practical software solutions and collaborating across multidisciplinary teams.
 
-Strong foundation in machine learning, data analytics, backend engineering, and real-world AI deployment with hands-on experience building production-ready projects using Google Gemini AI, LangChain, Pinecone, YOLOv8, Streamlit, MERN Stack, and cloud deployment platforms.
-
-Passionate about leveraging AI and backend technologies to solve African and global real-world problems through scalable, secure, and intelligent software systems.
+Passionate about developing reliable backend services that power intelligent applications and real-world digital products.
 
 ---
 
-# TECHNICAL SKILLS
+🛠️ Technical Skills
 
-## AI / MACHINE LEARNING
+Backend Development
 
-* Machine Learning
-* Computer Vision
-* Retrieval-Augmented Generation (RAG)
-* OCR & Image Recognition
-* Prompt Engineering
-* Predictive Analytics
-* AI Workflow Integration
-* AI Model Deployment
-* Intelligent Automation
+- Node.js
+- Express.js
+- FastAPI
+- REST API Development
+- Authentication & Authorization
+- JWT
+- Role-Based Access Control (RBAC)
+- API Integration
+- Backend System Design
 
-## BACKEND ENGINEERING
+Programming Languages
 
-* Node.js
-* Express.js
-* REST API Development
-* Authentication & Authorization
-* Backend System Architecture
-* Role-Based Access Control
-* Real-Time Data Handling
-* API Integration
-* Session & Token Management
+- JavaScript (ES6+)
+- Python
+- SQL
+- HTML5
+- CSS3
 
-## PROGRAMMING LANGUAGES
+Databases
 
-* Python
-* JavaScript
-* SQL
-* HTML
-* CSS
+- MongoDB
+- MySQL
+- PostgreSQL (Foundational Knowledge)
 
-## FRAMEWORKS & TOOLS
+Frontend Development
 
-* Streamlit
-* React.js
-* MongoDB
-* Pinecone
-* LangChain
-* Google Gemini AI
-* YOLOv8
-* Clerk Authentication
-* Power BI
-* Tableau
-* Git & GitHub
-* n8n Automation
+- React.js
+- Responsive Web Design
+- Component-Based Architecture
 
-## DATABASES
+AI & Machine Learning
 
-* MongoDB
-* MySQL
-* PostgreSQL
+- Machine Learning
+- Computer Vision
+- Model Deployment
+- AI Workflow Integration
+- Google Gemini AI
+- LangChain
+- Pinecone
+- YOLOv8
+- Retrieval-Augmented Generation (RAG)
 
-## CLOUD & DEPLOYMENT
+Tools & Platforms
 
-* Vercel
-* Netlify
-* Streamlit Cloud
-* Render
+- Git
+- GitHub
+- Postman
+- Render
+- Vercel
+- Streamlit
+- Netlify
+- n8n
 
----
+Additional Skills
 
-# PROFESSIONAL EXPERIENCE
-
-## Data Management & Financial Data Entry Specialist
-
-**Olalekan Ademoye & Co.** | Lagos, Nigeria
-**2014 – Present**
-
-* Managed and maintained large-scale client financial and operational datasets with high accuracy and confidentiality.
-* Developed Excel-based automation solutions for financial computations, reporting, and operational efficiency.
-* Analyzed payroll and financial records to generate structured reports supporting business operations and decision-making.
-* Applied analytical thinking and data management principles to improve reporting accuracy and workflow efficiency.
-* Maintained reliable financial data systems while supporting day-to-day operational processes.
+- Technical Documentation
+- Problem Solving
+- Team Collaboration
+- Agile Development
+- Remote Team Collaboration
 
 ---
 
-## Pharmacy Management Officer (NYSC)
+💼 Professional Experience
 
-**Delta State Ministry of Health** | Asaba, Delta State
-**2022 – 2023**
+AI Backend Engineer & Full-Stack Developer
 
-* Managed pharmaceutical inventory datasets and monitored medicine stock movement for operational efficiency.
-* Applied data analysis and reporting techniques to optimize inventory tracking and supply coordination.
-* Assisted in healthcare operations while maintaining compliance with pharmaceutical handling standards.
-* Participated in community health outreach and patient education initiatives.
-* Supported healthcare service delivery using structured documentation and operational management practices.
+Personal Projects & Independent Development
 
----
+2023 – Present
 
-# LEADERSHIP & VOLUNTEER EXPERIENCE
-
-## Muslim Corper Liaison Officer
-
-**National Youth Service Corps (NYSC), Asaba Branch**
-**2022 – 2023**
-
-* Coordinated communication and activities for over 20 corps members within the NYSC community.
-* Organized community engagement initiatives and welfare support activities.
-* Facilitated collaboration between corps members and community stakeholders.
-* Demonstrated leadership, coordination, and team management abilities in a multicultural environment.
+- Designed and developed backend services and RESTful APIs using Node.js, Express.js, and Python FastAPI.
+- Built AI-powered applications integrating machine learning models into production-ready systems.
+- Developed secure authentication and authorization systems using modern security practices.
+- Worked with MongoDB databases for data modeling, storage, and retrieval.
+- Deployed applications to cloud platforms including Vercel, Render, and Streamlit Cloud.
+- Collaborated on software architecture planning, testing, deployment, and feature implementation.
+- Applied Git and GitHub workflows for version control and project management.
 
 ---
 
-# FEATURED AI & BACKEND PROJECTS
+Data Management & Financial Data Entry Specialist
 
-## GrainTrust AI — AI-Powered Agricultural Quality Verification Platform
+Olalekan Ademoye & Co.
 
-[Live Demo](https://graintrust.vercel.app/?utm_source=chatgpt.com) | [GitHub Repository](https://github.com/HARDECOMM/Graintrust.git?utm_source=chatgpt.com)
+2014 – Present
 
-* Developed an AI-powered agricultural trust platform addressing payment and grain quality verification challenges between farmers and millers.
-* Integrated Google Gemini AI for grain quality analysis including moisture detection, impurity identification, and grading from uploaded images.
-* Designed escrow-integrated transaction workflow concepts using Interswitch escrow logic for secure agricultural trade verification.
-* Built AI-assisted yield prediction functionality for harvest estimation and agricultural planning.
-* Developed scalable backend logic and intelligent verification workflows for agri-tech use cases.
-
----
-
-## NaijaPlate AI Pro — Nigerian License Plate Recognition System
-
-[Live Demo](https://naija-plate-ai-pro.vercel.app/?utm_source=chatgpt.com) | [GitHub Repository](https://github.com/HARDECOMM/NaijaPlate-AI-Pro.git?utm_source=chatgpt.com)
-
-* Built a localized AI-powered Automatic Number Plate Recognition (ANPR) system optimized for Nigerian environments.
-* Implemented YOLOv8 object detection for vehicle license plate localization and extraction.
-* Integrated OCR pipelines and Google Gemini AI refinement for improved text recognition accuracy.
-* Developed rule-based validation and confidence scoring engines for intelligent plate verification.
-* Engineered backend workflows for real-time image analysis and recognition processing.
+- Managed financial and operational databases with high accuracy and confidentiality.
+- Produced reports supporting business operations and decision-making.
+- Improved data quality through validation, verification, and structured record management.
+- Worked with large datasets requiring strong analytical and organizational skills.
 
 ---
 
-## AI Drug Stability Intelligence System (ADSI)
+Pharmacy Management Officer (NYSC)
 
-[Live Demo](https://ai-drug-stability-intelligence-syst.vercel.app/?utm_source=chatgpt.com) | [GitHub Repository](https://github.com/HARDECOMM/AI-Drug-Stability-Intelligence-System-ADSI-.git?utm_source=chatgpt.com)
+Delta State Ministry of Health
 
-* Designed an AI-powered pharmaceutical monitoring platform for detecting environmental conditions affecting drug stability.
-* Developed predictive analytics workflows for identifying risks associated with temperature and humidity exposure.
-* Built intelligent monitoring concepts targeting pharmaceutical supply chain safety in tropical environments.
-* Integrated real-time environmental intelligence concepts and alert-based monitoring architecture.
-* Applied AI and healthcare domain knowledge to improve pharmaceutical quality assurance systems.
+2022 – 2023
 
----
-
-## Ebola Virus Guidance Chatbot (RAG System)
-
-[Live Demo](https://ebolavirus.streamlit.app/?utm_source=chatgpt.com) | [GitHub Repository](https://github.com/HARDECOMM/EbolaVirusBot.git?utm_source=chatgpt.com)
-
-* Developed an AI-powered healthcare guidance chatbot using Retrieval-Augmented Generation (RAG) architecture.
-* Integrated Google Gemini AI, LangChain, Pinecone, and Streamlit for intelligent medical information retrieval.
-* Built semantic search pipelines for retrieving contextual Ebola-related healthcare guidance from curated medical documents.
-* Implemented conversational memory and vector database pipelines for contextual interactions.
-* Optimized embedding workflows and batched vector operations for efficient retrieval performance.
+- Managed healthcare inventory records and reporting systems.
+- Supported operational decision-making through data tracking and analysis.
+- Maintained documentation and inventory monitoring processes.
+- Assisted healthcare teams in maintaining accurate pharmaceutical records.
 
 ---
 
-## Chronicare — Full-Stack Healthcare Appointment System (PLP Capstone Project)
+🚀 Featured Projects
 
-[Live Demo](https://chronicare.vercel.app/?utm_source=chatgpt.com) | [GitHub Repository](https://github.com/HARDECOMM/Chronicare.git?utm_source=chatgpt.com)
+🌾 GrainTrust AI — Agricultural Quality Verification Platform
 
-* Built a full-stack MERN healthcare appointment management application with secure authentication and role-based access control.
-* Developed backend APIs and appointment management workflows for doctors and patients.
-* Integrated Clerk authentication for secure user management and session handling.
-* Implemented real-time appointment status tracking and communication functionalities.
-* Designed scalable backend logic for healthcare scheduling and profile management systems.
+Tech Stack: Node.js, React.js, MongoDB, Gemini AI
 
----
+🔗 Live Demo: https://graintrust.vercel.app
+🔗 Repository: https://github.com/HARDECOMM/Graintrust
 
-## Cats vs Dogs AI Image Classifier
+Highlights
 
-[Live Demo](https://cat-dog-pred-rsr3newzqqbqfg78rvudiw.streamlit.app/?utm_source=chatgpt.com) | [GitHub Repository](https://github.com/HARDECOMM/cat-dog-pred.git?utm_source=chatgpt.com)
-
-* Built and deployed a computer vision classification model using MobileNetV2 transfer learning architecture.
-* Fine-tuned pretrained deep learning models for binary image classification tasks with high prediction accuracy.
-* Developed an interactive Streamlit interface for real-time image prediction and confidence scoring.
-* Applied transfer learning techniques to improve performance with limited training datasets.
-* Achieved approximately 98% classification accuracy on test datasets.
+- AI-powered grain quality verification platform.
+- Image-based grain assessment using Gemini AI.
+- Agricultural transaction verification workflows.
+- Scalable backend architecture and database design.
+- Yield prediction and intelligent farming insights.
 
 ---
 
-# EDUCATION
+🚗 NaijaPlate AI Pro — Nigerian License Plate Recognition System
 
-## Higher National Diploma (HND) — Pharmaceutical Technology
+Tech Stack: Python, YOLOv8, OCR, Gemini AI
 
-**Moshood Abiola Polytechnic** | Abeokuta, Ogun State, Nigeria
-**2015 – 2021**
+🔗 Live Demo: https://naija-plate-ai-pro.vercel.app
+🔗 Repository: https://github.com/HARDECOMM/NaijaPlate-AI-Pro
 
----
+Highlights
 
-# CERTIFICATIONS
-
-* Google Data Analytics Professional Certificate — Coursera
-* Data Science Certificate — CareerEx | Youthrive
-* Data Analytics & Visualization — Accenture North America
-* Essential Data Analytics Certificate — Cisco Networking Academy
-* HTML/CSS Beginners Certificate — Kandi
-* Soft Skills Certificate — Jobberman
-* Being a Paramedic — Atingi
-* NYSC Certificate — National Youth Service Corps
+- Automatic Number Plate Recognition (ANPR) system.
+- YOLOv8 object detection for license plate localization.
+- OCR integration for text extraction.
+- AI-assisted validation and confidence scoring.
+- Real-time image analysis workflows.
 
 ---
 
-# LANGUAGES
+💊 AI Drug Stability Intelligence System (ADSI)
 
-* English
-* Yoruba
+Tech Stack: Python, AI Analytics, Monitoring Systems
 
----
+🔗 Live Demo: https://ai-drug-stability-intelligence-syst.vercel.app
+🔗 Repository: https://github.com/HARDECOMM/AI-Drug-Stability-Intelligence-System-ADSI-
 
-# ADDITIONAL INFORMATION
+Highlights
 
-## Core Areas of Interest
-
-* Artificial Intelligence
-* Backend Engineering
-* Machine Learning Systems
-* AI Automation
-* Computer Vision
-* Intelligent Healthcare Systems
-* AI Infrastructure
-* Real-Time Monitoring Systems
+- Pharmaceutical monitoring and intelligence platform.
+- Predictive analysis for temperature and humidity risks.
+- Drug stability monitoring architecture.
+- Real-time environmental intelligence concepts.
+- Healthcare-focused AI application.
 
 ---
 
-# PORTFOLIO
+🦠 Ebola Virus Guidance Chatbot (RAG System)
 
-🌐 [Professional Portfolio Website](https://professiona-portfolio.netlify.app/?utm_source=chatgpt.com)
-💻 [GitHub Projects Portfolio](https://github.com/HARDECOMM/Ademoye-s_Portfolio?utm_source=chatgpt.com)
+Tech Stack: FastAPI, LangChain, Pinecone, Gemini AI, Streamlit
 
+🔗 Live Demo: https://ebolavirus.streamlit.app
+🔗 Repository: https://github.com/HARDECOMM/EbolaVirusBot
+
+Highlights
+
+- AI-powered healthcare guidance chatbot.
+- Retrieval-Augmented Generation (RAG) architecture.
+- Semantic search with Pinecone vector database.
+- Context-aware conversational responses.
+- Medical knowledge retrieval optimization.
+
+---
+
+🏥 Chronicare — Healthcare Appointment Management System
+
+Tech Stack: MERN Stack, Clerk Authentication
+
+🔗 Live Demo: https://chronicare.vercel.app
+🔗 Repository: https://github.com/HARDECOMM/Chronicare
+
+Highlights
+
+- Full-stack healthcare scheduling platform.
+- Appointment booking and management workflows.
+- Role-based access control implementation.
+- Secure authentication using Clerk.
+- Patient and provider management system.
+
+---
+
+🐱🐶 Cats vs Dogs AI Image Classifier
+
+Tech Stack: Python, TensorFlow, MobileNetV2, Streamlit
+
+🔗 Live Demo: https://cat-dog-pred-rsr3newzqqbqfg78rvudiw.streamlit.app
+🔗 Repository: https://github.com/HARDECOMM/cat-dog-pred
+
+Highlights
+
+- Deep learning image classification system.
+- MobileNetV2 transfer learning implementation.
+- Interactive prediction dashboard.
+- Real-time image analysis.
+- Achieved approximately 98% classification accuracy.
+
+---
+
+🎓 Education
+
+Higher National Diploma (HND) — Pharmaceutical Technology
+
+Moshood Abiola Polytechnic (MAPOLY)
+Abeokuta, Ogun State, Nigeria
+
+---
+
+📜 Certifications
+
+- Software Development & Specialized MERN Stack Development — Power Learn Project (PLP)
+- Data Science in Python & Supervised Machine Learning — CareerEx Youthrive
+- AI/ML Learning Program — 3MTT Nigeria
+- DeepTech Computer Vision Program — 3MTT Nigeria (Certificate Pending)
+- AI/ML Workshop Certificate — Data Science Africa
+- Google Data Analytics Professional Certificate — Coursera
+- Essential Data Analytics Certificate — Cisco Networking Academy
+
+---
+
+🏆 Leadership Experience
+
+Muslim Corps Members Liaison Officer
+
+National Youth Service Corps (NYSC)
+
+- Coordinated communication among corps members.
+- Organized welfare and community engagement initiatives.
+- Demonstrated leadership, collaboration, and stakeholder management skills.
+
+---
+
+🌍 Languages
+
+- English (Professional)
+- Yoruba (Native)
+
+---
+
+🎯 Areas of Interest
+
+- Artificial Intelligence
+- Backend Engineering
+- Machine Learning Systems
+- Computer Vision
+- AI Automation
+- Healthcare Technology
+- Intelligent Monitoring Systems
+- Scalable Cloud Applications
+
+---
+
+📫 Connect With Me
+
+- Portfolio: https://professiona-portfolio.netlify.app
+- GitHub: https://github.com/HARDECOMM
+- LinkedIn: https://www.linkedin.com/in/haruna-ademoye-859486110
+- Email: ademoyeharuna@gmail.com
